@@ -1,6 +1,6 @@
 # Dockerfile
 
-# Etapa de construcción aaa
+# Etapa de construcción
 FROM node:18 AS build
 
 WORKDIR /app
